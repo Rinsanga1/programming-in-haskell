@@ -3,9 +3,9 @@
 - Introduction
     functions ( done )
     functional programming ( done )
-    features of haskell ( in prog: i have work to do )
-    historical background ( inprog )
-    a taste of haskell
+    features of haskell ( done )
+    historical background ( done )
+    a taste of haskell (inprog )
     chapter remarks
 
 - First Steps
