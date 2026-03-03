@@ -1,10 +1,10 @@
 ## Part I  ( basic concepts ) // ill probably just do the basic concepts for now
 
 - Introduction
-    functions ( in prog )
-    functional programming
-    features of haskell
-    historical background
+    functions ( done )
+    functional programming ( done )
+    features of haskell ( in prog: i have work to do )
+    historical background ( inprog )
     a taste of haskell
     chapter remarks
 
